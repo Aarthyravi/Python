@@ -8,5 +8,15 @@
 ## How it is run
     - Python is an interpeter system which means it is run as soon as it is written.
 ## What is Library Function
-    -There are 2 places where memory is stored, Harddisc and Ram. Ram has different sections one for keyboard and one for display and more. Ram is not really stored. Where as Harddisc can be accessed later on. Example: Lets say i type a code and it gets stored in Harddisc after I will type another code to bring the code into Ram and then the code gets excuted and displayed
- 
+   -Let us say that I type print("Hello Dad") and then it prints Hello Dad. Originally you have to type multiple codes just to print a text but other people have simplified that since they already programed what the computer should when someone types print and stored it in.
+## Big O Notation
+   Big O Notation is a mathmatical equation to represent an algorithm. An algorithm is steps for how to solve. Lets say your bff gives you a secret message which you have to decode. The message is eeghdvjw and it comes with a key like e is a and 
+   The algorithm is:
+   
+   Create output locate(Storage)
+   For each input string find key
+         Get the ouput letter
+         Store output letter in output location
+   Return output location 
+Now we need to put this algorithm in a mathematical equation.  This is how O(2+3n), the 2 represents creating output location and returning output location. The 3n represents :For each input string find key, Get the ouput letter, Store output letter in output location. And the n is for the number of times this is repeated depending on how long the secret message is. Now this is best case since it's efficent and quicker. the worst case is O(26+2+3n) where the 26 represents reading the alphabets. The average case is O(13+3n+2)
+                             
