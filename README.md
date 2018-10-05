@@ -19,11 +19,11 @@
          Store output letter in output location
    Return output location 
 Now we need to put this algorithm in a mathematical equation.  This is how O(2+3n), the 2 represents creating output location and returning output location. The 3n represents :For each input string find key, Get the ouput letter, Store output letter in output location. And the n is for the number of times this is repeated depending on how long the secret message is. Now this is best case since it's efficent and quicker. the worst case is O(26+2+3n) where the 26 represents the computer reading and matching the letters with the key one by on or slowly . The average case is O(13+3n+2)
-##Indentation
+## Indentation
 Indentation is important in python. There will be an error if there is no intentation in the right palce.
-##Comments
+## Comments
 If typing a note to yourself for later purposes, you use a # such a #lalalal and type what ever you want but using # means you can only type one line. If the comment is sooooooo big and you need multiple lines you use 3 qutations like """lalalala""" this is called docstring.
-##Python variables
+## Python variables
 x = "awesome"
 print("Python is " + x)
 
@@ -31,7 +31,7 @@ x = 5
 y = 10
 print(x + y)
 
-##Python numbers
+## Python numbers
 int - Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
 float- Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
 complex- Complex numbers are written with a "j" as the imaginary part
