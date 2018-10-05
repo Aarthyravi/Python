@@ -23,3 +23,10 @@ Now we need to put this algorithm in a mathematical equation.  This is how O(2+3
 Indentation is important in python. There will be an error if there is no intentation in the right palce.
 ##Comments
 If typing a note to yourself for later purposes, you use a # such a #lalalal and type what ever you want but using # means you can only type one line. If the comment is sooooooo big and you need multiple lines you use 3 qutations like """lalalala""" this is called docstring.
+##Python variables
+x = "awesome"
+print("Python is " + x)
+
+x = 5
+y = 10
+print(x + y)
