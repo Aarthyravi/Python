@@ -35,3 +35,5 @@ print(x + y)
 int - Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
 float- Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
 complex- Complex numbers are written with a "j" as the imaginary part
+## String
+A string is a set of characters. In python you use quotations for words or letters since it is a way for the computer identify what is an integer and what is a string. ("Jaisree25") The computer takes in the 25 as a string since it is inside the quotes.
