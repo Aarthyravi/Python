@@ -42,3 +42,11 @@ It is basically specfiying a varible for example there is the number 100.8234 an
 x = int(100.8234)
 print(x)
 >>> 100 
+## String Literals
+a = "Hello, World!"
+print(a[1])
+Ans: e, this program prints a letter. since I put 1 in the barckests the program prints out the 1st number which is e. If I were to put 0 in the brakests it would print H.
+
+b = "Hello, World!"
+print(b[2:5])
+Ans.llo, this progarm: Gets the characters from position 2 to position 5 (5 not included)
