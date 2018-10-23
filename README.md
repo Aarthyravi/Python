@@ -37,3 +37,8 @@ float- Float, or "floating point number" is a number, positive or negative, cont
 complex- Complex numbers are written with a "j" as the imaginary part
 ## String
 A string is a set of characters. In python you use quotations for words or letters since it is a way for the computer identify what is an integer and what is a string. ("Jaisree25") The computer takes in the 25 as a string since it is inside the quotes.
+## Casting
+It is basically specfiying a varible for example there is the number 100.8234 and right now it is a float and you want it to be an integer so you can do:
+x = int(100.8234)
+print(x)
+>>> 100 
