@@ -50,3 +50,29 @@ Ans: e, this program prints a letter. since I put 1 in the barckests the program
 b = "Hello, World!"
 print(b[2:5])
 Ans.llo, this progarm: Gets the characters from position 2 to position 5 (5 not included)
+
+x = "    Jaisree"
+print(x.strip())
+Ans. Jaisree
+This command removes any spaces in front or the end of a string
+
+d = "Jaisree"
+print(len(d))
+Ans.7
+this command gives the length of the string
+
+h = "Jaisree"
+print(h.lower())
+Ans. jaisree
+This command givies the  string in lower case. Instead of lower, if you type print(h.upper()) then You will get the string in upper case: JAISREE
+
+b =  Hello from the outside
+print(b.replace("H","J")
+Ans. Jello from the outside
+This command replaces strings
+
+t = "Jaiwsree"
+u = t.split("w")
+print(u)
+Ans ['Jai', 'sree']
+this command splits strings. The w is gone and that is where the string is split
