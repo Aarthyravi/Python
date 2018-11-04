@@ -7,6 +7,7 @@
     -I.D.E. is just diffenent places and environments that you program and code in
 ## How it is run
     - Python is an interpeter system which means it is run as soon as it is written.
+    - There is also compiler which means the program is run after all  the code is written.
 ## What is Library Function
    -Let us say that I type print("Hello Dad") and then it prints Hello Dad. Originally you have to type multiple codes just to print a text but other people have simplified that since they already programed what the computer should when someone types print and stored it in.
 ## Big O Notation
