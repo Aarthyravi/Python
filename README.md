@@ -67,7 +67,7 @@ print(h.lower())
 Ans. jaisree
 This command givies the  string in lower case. Instead of lower, if you type print(h.upper()) then You will get the string in upper case: JAISREE
 
-b =  Hello from the outside
+b =  "Hello from the outside"
 print(b.replace("H","J")
 Ans. Jello from the outside
 This command replaces strings
@@ -77,3 +77,12 @@ u = t.split("w")
 print(u)
 Ans ['Jai', 'sree']
 this command splits strings. The w is gone and that is where the string is split
+
+## Python Operators
+Arithmetic operators-Arithmetic operators are used with numeric values to perform common mathematical operations
+Assignment operators-Assignment operators are used to assign values to variables
+Comparison operators-Comparison operators are used to compare two values
+Logical operators-Logical operators are used to combine conditional statements
+Identity operators- To compare objects if similar. Like x is y, x is not y
+Membership operators- helps to see id a sequence is in an object
+Bitwise operators-Bitwise operators are used to compare (binary) numbers
