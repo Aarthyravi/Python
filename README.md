@@ -84,5 +84,5 @@ Assignment operators-Assignment operators are used to assign values to variables
 Comparison operators-Comparison operators are used to compare two values
 Logical operators-Logical operators are used to combine conditional statements
 Identity operators- To compare objects if similar. Like x is y, x is not y
-Membership operators- helps to see id a sequence is in an object
+Membership operators- helps to see if a sequence is in an object
 Bitwise operators-Bitwise operators are used to compare (binary) numbers
