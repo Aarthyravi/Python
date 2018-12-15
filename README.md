@@ -86,3 +86,6 @@ Logical operators-Logical operators are used to combine conditional statements
 Identity operators- To compare objects if similar. Like x is y, x is not y
 Membership operators- helps to see if a sequence is in an object
 Bitwise operators-Bitwise operators are used to compare (binary) numbers
+
+## List
+There are 4 different catagories of data sets. List is used for data sets that needs to be ordered and changed and this also allows duplicate strings and variables.
