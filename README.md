@@ -88,4 +88,4 @@ Membership operators- helps to see if a sequence is in an object
 Bitwise operators-Bitwise operators are used to compare (binary) numbers
 
 ## List
-There are 4 different catagories of data sets. List is used for data sets that needs to be ordered and changed and this also allows duplicate strings and variables.
+There are 4 different catagories of data sets. List is used for data sets that needs to be ordered and changed and this also allows duplicate strings and variables. Index is basicallly a position. So we can acesss the data randomly not in order, you can pull an element from even the middle.
